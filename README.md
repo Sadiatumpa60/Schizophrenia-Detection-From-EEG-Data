@@ -13,4 +13,4 @@ using different types of Neural Networks.We have built a custom method and teste
 data set with different deep learning models like CNN, RNN etc. Among all the models
 we have achieved 82% accuracy for ANN. This is the highest accuracy for any existing
 approaches or models in the particular data set.
-iii
+
