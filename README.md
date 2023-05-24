@@ -15,6 +15,6 @@ we have achieved 82% accuracy for ANN. This is the highest accuracy for any exis
 approaches or models in the particular data set.
 
 ## Methodology:
-
+![work_flow_new](https://github.com/Sadiatumpa60/Schizophrenia-Detection-From-EEG-Data/assets/131945108/41c16c82-63ee-467e-b07d-de971ac34d02)
 ## Dataset-
 https://www.kaggle.com/datasets/broach/button-tone-sz/code?fbclid=IwAR0yayhsQRvDvPUQ72PHbpzJqhu1LSHPdnr39l1r6WxHDBoSfPPihSL8u20
