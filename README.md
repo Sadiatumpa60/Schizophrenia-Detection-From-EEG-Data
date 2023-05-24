@@ -20,5 +20,7 @@ approaches or models in the particular data set.
 ![Screenshot (813)](https://github.com/Sadiatumpa60/Schizophrenia-Detection-From-EEG-Data/assets/131945108/06b5846f-7400-431b-be33-d39c2c07623c)
 ## Feature Description:
 ![Screenshot (812)](https://github.com/Sadiatumpa60/Schizophrenia-Detection-From-EEG-Data/assets/131945108/1dcf7d85-85fc-400e-bd53-5cc5b03c294d)
+## Results For Implementing Deep Learning:
+![Screenshot (814)](https://github.com/Sadiatumpa60/Schizophrenia-Detection-From-EEG-Data/assets/131945108/a9dfbd25-87fe-4f12-9a42-d0577d3b33a9)
 ## Dataset-
 https://www.kaggle.com/datasets/broach/button-tone-sz/code?fbclid=IwAR0yayhsQRvDvPUQ72PHbpzJqhu1LSHPdnr39l1r6WxHDBoSfPPihSL8u20
