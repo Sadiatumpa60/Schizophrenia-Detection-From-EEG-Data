@@ -16,7 +16,7 @@ approaches or models in the particular data set.
 
 ## Methodology:
 ![work_flow_new](https://github.com/Sadiatumpa60/Schizophrenia-Detection-From-EEG-Data/assets/131945108/41c16c82-63ee-467e-b07d-de971ac34d02)
-## Feature Exreaxtion:
+## Feature Extraction:
 ![Screenshot (813)](https://github.com/Sadiatumpa60/Schizophrenia-Detection-From-EEG-Data/assets/131945108/06b5846f-7400-431b-be33-d39c2c07623c)
 ## Dataset-
 https://www.kaggle.com/datasets/broach/button-tone-sz/code?fbclid=IwAR0yayhsQRvDvPUQ72PHbpzJqhu1LSHPdnr39l1r6WxHDBoSfPPihSL8u20
